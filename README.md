@@ -2,9 +2,13 @@
 
 #### 联系方式
 
-- Phone：176-xxxx-5010
-- Wechat：cnbattle
-- Email：i@cnbattle.com
+<table>
+  <tr>
+      <td>Phone：176-xxxx-5010</td>
+      <td>Wechat：cnbattle</td>
+      <td>Email：i@cnbattle.com</td>
+  </tr>
+</table>
 
 # 期望
 
