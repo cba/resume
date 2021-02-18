@@ -32,7 +32,7 @@
    - Golang：`Gin` `Gorm` 
 - 数据库缓存相关：`MySQL` `MongoDB` `SQLite` `Redis`
 - **云和开放平台：熟悉阿里云/腾讯云/七牛等云平台SDK、熟悉微信生态公众号/H5/小程序相关开发**
-- 操作系统：熟悉Debian系Linux，了解Centos、了解Linux Docker运维工作、了解分布式/集群系统
+- 操作系统：熟悉Debian系Linux，熟悉Linux Docker运维工作，了解Centos、、了解分布式/集群系统
 - 工作环境： 
   - OS：`Manjaro` `Windows 10`
   - IDE：`PHPstorm` `Goland`
